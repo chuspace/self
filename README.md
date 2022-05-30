@@ -31,4 +31,4 @@ This repository 🤓 is also open [sourced](https://github.com/chuspace/self)
 
 🤫 Psst! You can [create](/connect) your own publication with a README.
 
-\* In development
+\*_In development_
