@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-summary: Last updated: May 30, 2022
+summary: Last updated May 30, 2022
 ---
 
 Please read these terms and conditions carefully before using Our Service.
