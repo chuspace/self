@@ -22,7 +22,7 @@ Chuspace is built on the popular Ruby on Rails framework and is by design a mono
 
 * [Ruby on Rails](https://rubyonrails.org/)
 
-* [Postgresql](https://www.postgresql.org/)
+* [MySQL](https://www.mysql.com/)
 
 * [Memcached](https://memcached.org/)
 
