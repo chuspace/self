@@ -3,36 +3,42 @@ title: Hello World
 summary: Down the rabbit hole and back
 ---
 
-In 2015, I started dabbling into the blogging space through [medium.com](https://gauravtiwari.medium.com/). In my opinion, Medium was the first simple and readable blogging platform. They got everything right except the editor, which wasn’t built for sharing code. I had to embed GitHub gists, which was very clunky and time-consuming.
+In 2015, I started dabbling into the blogging space through [medium.com](https://gauravtiwari.medium.com/). In my opinion, Medium was the first simple and readable blogging platform. They got everything right except the editor. I had to embed GitHub gists, which was very clunky and time-consuming. I am sure everyone had/has this issue.
 
-The initial idea for Chuspace was very much inspired by medium with a better editor that understands markdown and highlights code with community contributions. Often, we read posts on topics that have stale content and I thought if we could have something like *“Github for blogging“* that would solve the problem. Readers can submit *“Revisions“* and keep content up to date.
+The initial idea for Chuspace was very much inspired by medium with a better editor that understands markdown, highlights code and has community powered revisions. Often, we read posts on topics that have gone stale and I thought if we could do something like *“Git for blogging“* that would solve the problem. Readers can submit *“Revision requests“* and keep contents up to date.
 
 With that in mind, I started building the first version around the start of 2018 👇
 
 ![Initial commit in 2018](/assets/screenshot-2022-06-05-at-195941.png)
 
-But with a full-time job in hand, it took me almost two years to build the platform, and when you spend that much time you lose track. In the end, I built this complex platform with Git hosting, which wasn’t needed. It was all very well reasoned though, like having Git built-in would make onboarding easier. People don’t have to connect external repositories, which adds an extra step - *UX and so on.*
+But with a full-time job in hand, it took me almost two years to build the platform, and when you spend that much time you lose track - aka ***down the rabbit hole***. 
 
-I felt a bit lost and didn’t want to lose any more time, so decided to stop working and achieved the repository and it’s been like that up until the end of last year.
+I had this complex platform with integrated Git hosting built on top of NFS (*some code adapted from Gitlab FOSS*). It was all very well reasoned, like having Git built into the platform would make onboarding easier. People don’t have to connect external repositories, which adds an extra step - *UX and so on. Anyway,* I felt lost and didn’t want to lose any more time. 
 
-Last year, I was reading something and I noticed **content freshness and fragmentation** are still a problem. I thought, how about, if I build something that allowed programmers to connect their existing blogs hosted anywhere. That way, you own the content and design of their blog and get a community of readers who can help maintain content freshness.
+So, I decided to stop working and achieved the Git repository. Although, I must say I have learned a lot.  
 
-And that’s what this new **Chuspace** is all about. **Chuspace is a collaborative blogging platform for programmers and teams. *Offering***,
+This year, I was researching something and noticed **content freshness and fragmentation** still exist, and I guess it’s inevitable due to fast-changing libraries and frameworks. I thought, how about if I build something that allowed programmers to connect their existing static blogs hosted on Github \*\**(Gitlab and Gitea coming soon)*. That way, they own the content and design of their blog and get a community of readers who can help keep content up to date.
 
-* 💪 True content and design ownership
+And that’s what **Chuspace** is all about. **It connects and brings independent programming blogs hosted on Git hosting platforms in one place so everyone can discover and maintain blogs through revisions\*\*.** 
+
+***Offering***,
+
+* 💪 True content and design ownership on your domain.
+
+* 📡 Content distribution
 
 * 🔌 Works with any static site framework that speaks markdown
 
 * 📙 Multiple team publications
 
-* 🙌 Community reviews and contributions *(in development)*
+* 🙌 *Community reviews and contributions (\*\*in development)*
 
-* 🌐 Custom domains and blog hosting  *(in development) aka Github Pages*
+* 🌐 *Custom domains and hosting  (\*\*in development) aka Github Pages*
 
 **How is this different?**
 
-Well, Chuspace works completely differently compared to all other blogging platforms. It starts with what you have and not what you must create or migrate to get started. You own your blog content, design and look and hosting provider - 100%.
+Well, Chuspace works completely differently, in fact opposite. It starts with what you have and not what you must create or import to get started. You own your blog content, brand and hosting provider - 100%. Plus, you can help create a community where we all can share and learn together and keep content fresh through revisions. 
 
-Plus, you can help create a community where we all can share and learn together and make content better through revisions. [Connect](/connect) your publication today.
+All you have to do is connect your existing blog Git repository - [Get started](/connect).
 
-*See a typo, please submit a [pull request](https://github.com/chuspace/self/edit/main/content/hello-world.md)*
+*See a typo, please submit a [pull request](https://github.com/chuspace/self/edit/main/content/hello-world.md) 🙏*
