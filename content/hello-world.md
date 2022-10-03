@@ -13,7 +13,7 @@ With that in mind, I started building the first version around the start of 2018
 
 But with a full-time job in hand, it took me almost two years to build the platform, and when you spend that much time you lose track - aka ***down the rabbit hole***.
 
-I had this complex platform with integrated Git hosting built on top of NFS (*some code adapted from Gitlab FOSS*). It was all very well reasoned, like having Git built into the platform would make onboarding easier. People don’t have to connect external repositories, which adds an extra step - *UX and so on. Anyway,* I felt lost and didn’t want to lose any more time. So, I decided to stop working and achieved the Git repository. Although, I must say I have learned a lot.
+I had this complex platform with integrated Git hosting built on top of NFS (*some code adapted from Gitlab FOSS*). It was all very well reasoned, like having Git built into the platform would make onboarding easier. People don’t have to connect external repositories, which adds an extra step - *UX and so on. Anyway,* I felt lost and didn’t want to lose any more time. So, I decided to stop working and archieved the Git repository. I have learned a lot though.
 
 This year, I was researching something and noticed **content freshness and fragmentation** still exist, and I guess it’s inevitable due to fast-changing libraries and frameworks. I thought, how about if I build something that allowed programmers to connect their existing static blogs hosted on Github \*\**(Gitlab and Gitea coming soon)*. That way, they own the content and design of their blog and get a community of readers who can help keep content up to date.
 
